@@ -1,4 +1,4 @@
 # ИГРА "21 СПИЧКА"
-![Логотип Спички]()
+![Логотип Спички](https://github.com/tatiatiav/project_sticks/blob/master/logo.jpeg)
 ## Правила игры
 
